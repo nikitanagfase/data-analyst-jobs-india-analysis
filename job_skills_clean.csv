@@ -1,0 +1,3240 @@
+job_id,skill
+0,Banking
+0,KYC
+0,"Banking Operations"
+1,ERP
+1,SAP
+2,"Data Quality"
+2,"Quality Management"
+3,"Power BI"
+3,"Commercial Operations"
+3,"Data Management"
+4,"Test Strategy"
+4,"Manager Technology"
+5,KYC
+5,Aml
+5,Banking
+6,Procurement
+6,"Relationship Management"
+6,"Computer Science"
+7,"Supply Chain"
+7,"Data Modeling"
+8,"Power BI"
+8,"Supply Chain Planning"
+8,Tableau
+9,"Test Strategy"
+9,Banking
+10,"Test Strategy"
+10,Banking
+11,Mdg
+11,Cmd
+11,"Master Data"
+12,"Computer Science"
+12,"Ms Sql"
+13,"Power BI"
+13,Mis
+14,Rpa
+14,"Power BI"
+14,"Power Apps"
+15,"Data Warehouse"
+15,"Power BI"
+16,"Test Strategy"
+16,"Manager Technology"
+17,"Aws Technologies"
+17,Excel
+17,SQL
+18,"Stress Testing"
+18,"Audit Compliance"
+18,"Regulatory Reporting"
+19,Usage
+19,"Test Strategy"
+20,"Test Strategy"
+20,"Senior Data Analyst"
+21,Retail
+21,"Test Strategy"
+22,Usage
+22,"Test Strategy"
+23,"Hl7 Fhir Implementation"
+23,"Agile Methodologies"
+23,Fhir
+24,Pl/Sql
+24,"Sttm Creation"
+24,"Data Mapping"
+25,"Data Management"
+25,Rdbms
+25,"Project Management"
+26,"Reference Data"
+26,"It Business Analyst"
+26,"It Jobs In Bfsi"
+27,Ctms
+27,Cdms
+27,Veeva
+28,"Predictive Modeling"
+28,"Logistic Regression"
+28,Sas
+29,Automation
+29,SAP
+29,"Project Management"
+30,"Query Optimization"
+30,Msql
+30,"Stored Procedures"
+31,"Ab Analysis"
+31,Pricing
+31,"Price Framework"
+32,"Agile Methodologies"
+32,Carin
+32,Fhir
+33,"Data Visualization"
+33,Qlikview
+34,Pl/Sql
+34,"Sttm Creation"
+34,"Data Mapping"
+35,"Predictive Modeling"
+35,"Data Quality"
+36,Automation
+36,C
+37,"Power BI"
+37,Dax
+37,Aws
+38,Bfsi
+38,"Data Collection"
+39,"Computer Science"
+39,"Machine Learning"
+40,"Energy Management"
+40,"Energy Audit"
+41,"Advance Excel"
+41,"Power BI"
+42,"Supply Chain"
+42,"Data Management"
+43,R
+43,Tableau
+43,Python
+44,R
+44,"Data Visualization"
+45,ETL
+45,Scm
+46,Automation
+46,"Natural Language Processing"
+46,Pandas
+47,Python
+48,"Stakeholder Management"
+48,"Data Products"
+49,Merging
+49,"Data Cleansing"
+50,KYC
+50,Aml
+50,Banking
+51,"Supply Chain"
+51,Automation
+51,SAP
+52,ETL
+52,"Banking Domain"
+52,SQL
+53,Derivatives
+53,Excel
+53,Swap
+54,SAP
+54,"Variance Analysis"
+55,SAP
+55,"Quality Deviation"
+56,"Data Cleansing"
+56,"Power BI"
+57,Automation
+57,"Corporate Actions"
+57,"Data Management"
+58,Automation
+58,"Data Management"
+59,"Data Mining"
+59,"Data Cleansing"
+60,"Computer Science"
+60,Usage
+60,SAP
+61,"Product Management"
+61,"Executive Leadership"
+61,"Change Management"
+62,"Data Reporting"
+63,Hl7
+63,Hl
+63,Fhir
+64,"Machine Learning"
+65,"Configuration Management"
+65,"Technical Support"
+65,"It Support"
+66,Sas
+66,Finance
+67,"Data Querying"
+67,"Power BI"
+68,"Data Modeling"
+68,ETL
+69,"Google Sheets"
+69,Automation
+69,"Power BI"
+70,"Data Transformation"
+70,"Metadata Management"
+70,Sas
+71,Automation
+71,Finance
+72,Iics
+72,Postgresql
+72,"Pl Sql Procedures"
+73,"Hr Analytics"
+73,"Hr Operations"
+73,"Hr Jobs In It/Ites"
+74,T-Sql
+74,"Sql Development"
+74,"Sql Queries"
+75,"Data Cleansing"
+75,Sas
+76,Sas
+76,"Data Management"
+77,Excel
+77,"Credit Risk Management"
+77,"Model Validation"
+78,"Data Modeling"
+79,Ssi
+79,"Swift Messaging"
+79,"Trade Settlements"
+80,Regression
+80,"Ab Testing"
+80,Hypothesis
+81,"Hr Analytics"
+82,Excel
+82,"Power BI"
+82,Bigquery
+83,Unix
+83,"Financial Statements"
+83,"Manager Quality Assurance"
+84,Automation
+84,"Manager Quality Assurance"
+85,Cvs
+85,"Corporate Actions"
+85,Networking
+86,"Data Engineering"
+86,"Sql Development"
+87,"Data Management"
+87,"Etl Tool"
+87,"Sql Azure"
+88,Python
+88,"Power BI"
+88,Tableau
+89,"Data Modeling"
+89,Underwriting
+90,"Print Design"
+90,Illustrator
+90,"Graphic Designing"
+91,"Web Analytics"
+92,Automation
+92,Linux
+93,"Mis Report"
+93,"Mis Operations"
+93,Vlookup
+94,R
+94,Nosql
+94,"Gcp Bq"
+95,"Hr Mis"
+95,"People Analytics"
+95,"Power BI"
+96,"Career Development"
+96,"Change Management"
+96,Metadata
+97,"Data Science"
+97,"Predictive Modeling"
+98,Finance
+98,Commerce
+99,"Etl Development"
+99,"Data Warehousing"
+99,"Dwh Implementation"
+100,Finance
+100,"Advanced Excel"
+101,Python
+102,"Google Analytics"
+102,"Data Extraction"
+103,"Financial Analytics"
+103,Mis
+103,"Data Modeling"
+104,"Data Management"
+104,"Etl Tool"
+104,"Data Warehousing Concepts"
+105,"Computer Science"
+105,"Data Validation"
+106,"Data Validation"
+106,"Power BI"
+106,Snowflake
+107,Cleaning
+107,"Data Processing"
+108,"Data Visualization"
+108,"Power BI"
+109,Wireless
+109,"Computer Science"
+109,"Ms Sql"
+110,"Big Query"
+110,"Power BI"
+110,Scripts
+111,Hive
+111,"Data Visualization"
+111,Spark
+112,Metadata
+112,Usage
+113,Usage
+113,Tableau
+113,Git
+114,"Manager Technology"
+115,"Google Sheets"
+115,"G Suite"
+115,"Google Apps Script"
+116,Tableau
+116,"Power BI"
+117,"Analytical Skills"
+117,"Copy Writing"
+117,"Digital Campaigns"
+118,"Stakeholder Engagement"
+118,Consulting
+119,Macros
+119,"Data Management"
+120,"Order Management"
+120,Procurement
+120,"Business Process"
+121,Plm
+121,Pharma
+122,Excel
+122,Coding
+122,"Senior Data Analyst"
+123,Excel
+123,Coding
+124,Payroll
+124,"Data Analyst In Payroll"
+124,Mis
+125,"Reference Data"
+125,Cfa
+126,"Business Intelligence"
+126,"Business Consulting"
+126,"Statistical Tools"
+127,"Power BI"
+127,"Data Visualization"
+128,Excel
+128,Reports
+128,Data
+129,"Redshift Db"
+129,"Data Warehousing"
+129,ETL
+130,Administration
+130,"Manager Quality Assurance"
+130,Publishing
+131,"Hr Mis"
+131,"Excel Dashboards"
+132,"Power BI"
+132,"Statistical Modeling"
+132,"Data Visualization"
+133,"Analytical Skills"
+133,Excel
+133,"Software Packages"
+134,"Data Management"
+134,"Mis Analysis"
+135,Excel
+135,Sas
+136,"Customer Acquisition"
+136,"Associate Data Analyst"
+136,Reconciliation
+137,Tableau
+137,"Data Modeling"
+137,"Agile Development"
+138,"Data Visualization"
+139,"Data Management"
+139,Schema
+140,SQL
+140,Consulting
+141,"Cost Optimization"
+141,"Variance Analysis"
+142,"Analytical Skills"
+142,"Data Services"
+142,"Document Review"
+143,"Pivot Table"
+143,"Power BI"
+143,Vlookup
+144,"Data Management"
+144,"Advanced Excel"
+145,Python
+145,Pyspark
+147,Eda
+147,Insights
+147,"Power BI"
+148,Modification
+148,"People Management"
+148,"Clearing Data Quality"
+149,Derivatives
+149,"Fixed Income Cash"
+150,"Data Management"
+151,"Structured Finance"
+151,"Financial Data Analyst"
+151,"Credit Analysis"
+152,"Data Management"
+152,"Data Extraction"
+153,"Power BI"
+153,"Reports And Dashboards"
+153,Tableau
+154,"Dashboard Design"
+155,SQL
+156,Tableau
+157,"Computer Science"
+157,"Test Strategy"
+157,"Agile Project Management"
+158,Metadata
+158,Python
+158,"Data Management"
+159,"Investment Products"
+159,Tableau
+159,Excel
+160,SQL
+160,Sas
+161,Procurement
+161,ERP
+161,"Business Objects"
+162,Python
+162,"Power BI"
+163,Excel
+163,"Power BI"
+163,Tableau
+164,Recruitment
+164,SQL
+165,"Data Validation"
+165,Countif
+165,"Power BI"
+166,Marketing
+166,Operations
+166,Data
+167,"Data Presentation"
+167,"Data Manipulation"
+167,"Data Management"
+168,"Data Modeling"
+168,Erwin
+169,"Sales Analytics"
+170,"Data Management"
+170,"Corporate Governance"
+170,"Service Industry"
+171,"Computer Science"
+171,"Data Management"
+171,"Renewable Energy"
+172,"Business Analysis"
+172,"Database Management"
+173,"Manager Quality Assurance"
+173,Sas
+174,Python
+174,"Process Analysis"
+175,"Power BI"
+175,"Mis Analysis"
+176,"Predictive Analytics"
+177,"Data Handling"
+177,"Attrition Analysis"
+177,Pms
+178,"Front Office"
+178,"Data Management"
+179,"Data Management"
+180,"Project Management"
+180,Bigquery
+180,"Google Analytics"
+181,"Google Data Studio"
+181,"Advance Excel"
+182,"Argus Safety"
+182,"Bi Publisher"
+182,"Oracle Argus"
+183,Healthcare
+183,Ehr
+184,Chemdraw
+184,"Patient Analysis"
+184,Articles
+185,"Data Modelling"
+185,"Data Extraction"
+185,"Data Cleansing"
+186,"Business Analytics"
+187,Excel
+187,"Power BI"
+187,Saas
+188,"Data Quality Management"
+189,"Data Science"
+189,Python
+190,Coding
+190,"Data Visualization"
+191,"Consulting - Telecom"
+192,Troubleshooting
+192,Recruitment
+192,SQL
+193,"Junior Analyst"
+193,Training
+193,"Corporate Governance"
+194,"Marketing Campaigns"
+194,"Market Research And Analysis"
+194,"Pricing Strategy"
+195,Tableau
+196,"Predictive Modeling"
+196,"Power BI"
+196,Sas
+197,Tableau
+197,Aws
+197,Python
+198,"Mis Preparation"
+198,"Loan Origination"
+198,"Power BI"
+199,"Power BI"
+199,"Data Driven"
+199,"Data Visualization"
+200,"Azure Synapse"
+200,"Azure Data Factory"
+200,"Elastic Search"
+201,"Computer Science"
+201,"Social Media"
+202,"Data Transformation"
+202,"Data Mining"
+203,"Data Warehousing"
+203,SQL
+204,SQL
+206,"Clinical Data Co-Ordinator"
+206,"Data Validation"
+206,Edc
+207,Healthcare
+208,SQL
+209,"Data Anlalytics"
+209,"Power BI"
+209,"Data Science"
+210,"Data Science"
+210,"Business Writing"
+211,"Workforce Planning"
+212,"Statistical Programming"
+212,Automation
+213,ERP
+213,"Azure Cloud"
+213,Snowflake
+214,SQL
+215,Medical
+215,Python
+215,"Data Management"
+216,SQL
+216,Python
+216,"Production Support"
+217,"Power BI"
+217,"Sql Queries"
+218,"Data Modeling"
+218,Powerdesigner
+219,Python
+219,SQL
+220,"Power BI"
+221,"Power BI"
+221,Tableau
+221,SQL
+222,"Google Sheets"
+222,Excel
+222,"Business Analyst"
+223,"Predictive Modeling"
+223,R
+223,"Power BI"
+224,Telecom
+224,Bfsi
+225,"Business Analytics"
+225,"Manager Quality Assurance"
+225,"Data Collection"
+226,Strategy
+226,Tableau
+227,Algorithms
+227,"Process Automation"
+227,"Data Engineering"
+228,R
+228,"Sql Queries"
+229,CRM
+230,Spss
+230,"Data Management"
+231,Excel
+231,"Power BI"
+231,"Data Visualization"
+232,"Machine Learning"
+232,Python
+232,Spark
+233,"Statistical Analyst"
+234,"Business Intelligence"
+235,"Data Transformation"
+235,"Data Quality"
+235,"Data Management"
+236,"Power BI"
+236,"Sql Database"
+237,SQL
+238,Iics
+238,Powercenter
+238,Postgresql
+239,"Customer Service"
+239,SQL
+240,Tableau
+240,SQL
+240,"Analytics Dashboards"
+241,"Data Cleansing"
+241,Trade
+241,Excel
+242,"Gap Analysis"
+242,"Requirements Management"
+242,"Business Analytics"
+243,"Communication Skills"
+243,"Analytical Skills"
+243,"Data Extraction"
+244,R
+244,Stata
+244,"Ngo Management"
+245,"Data Scientist"
+245,"Ai Technology"
+246,"Business Analysis"
+247,Tableau
+247,"Ab Testing"
+247,SQL
+248,Tableau
+248,"Ab Testing"
+248,Python
+249,"Power BI"
+249,Tableau
+249,"Sql Server"
+250,Sheduling
+250,"Variant Onfiguration"
+250,SAP
+251,"Customer Service"
+251,"Credit Rating"
+252,"Customer Service"
+252,"Credit Rating"
+253,Mining
+253,Sas
+253,"Technical Writing"
+254,"Computer Science"
+254,Mining
+254,Sas
+255,"Business Strategy"
+255,"Sales Analysis"
+255,"Team Handling"
+256,Pyspark
+256,SQL
+256,Python
+257,"Advance Excel"
+257,"Power BI"
+257,"Mis Reporting"
+258,"Excellent Communication In English"
+258,E-Commerce
+259,"Excellent Communication In English"
+259,E-Commerce
+260,"Supply Chain"
+260,"Linear Regression"
+261,Vba
+262,"Advance Excel"
+262,"Looker Studio"
+263,"Predictive Modeling"
+263,Azure
+263,"Big Data"
+264,Billing
+264,Excel
+264,"Stock Management"
+265,"Power BI"
+265,"Data Visualization Tools"
+266,"Data Extraction"
+266,"Data Mining"
+266,"Data Cleansing"
+267,"Global Operations"
+268,Formulas
+268,"Advanced Excel"
+268,Calculation
+269,"Data Management"
+270,SQL
+270,Python
+271,"Business Analytics"
+271,"Corporate Governance"
+272,"Data Visualization"
+272,"Data Visualization Tools"
+272,"Business Intelligence"
+273,"Business Intelligence"
+274,"Database Design"
+274,"Etl Frameworks"
+274,Excel
+275,"Power BI"
+275,"Data Validation"
+275,"Business System Analyst"
+276,"Data Extraction"
+276,"Data Mining"
+276,"Data Cleansing"
+277,Pyspark
+277,Python
+278,"Business Process"
+278,"Process Design"
+278,"Stakeholder Engagement"
+279,Automation
+279,Operations
+280,Python
+281,"Data Visualization"
+282,SQL
+282,Python
+283,SQL
+283,"Business Analysis"
+284,"Predictive Modeling"
+285,Tableau
+285,Excel
+286,"Sap Fico"
+286,"Fixed Assets"
+286,Fscm
+287,"Google Sheets"
+287,"Google Analytics"
+287,"Advanced Excel"
+288,R
+288,C
+289,Backend
+289,"Data Processing"
+290,"Big Data Analytics"
+290,"Database Management"
+290,"Data Visualization"
+291,Automotive
+291,"Machine Learning"
+291,"Artificial Intelligence"
+292,"Supply Chain"
+292,"Electronic Trading"
+292,"Data Management"
+293,SQL
+293,"Data Modeling"
+293,"Google Analytics"
+294,Tableau
+294,"Power BI"
+294,"Dax Power Bi"
+295,Mining
+295,"Computer Science"
+295,"Data Validation"
+296,Arima
+296,Python
+296,"Project Management"
+297,R
+297,Azure
+297,"Ms Excel"
+298,"Data Security"
+298,On-Premises
+299,Tableau
+300,"Business Intelligence"
+300,"Data Mining"
+300,"Trend Analysis"
+301,"Data Mining"
+301,"Machine Learning"
+301,Plsql
+302,"Data Warehousing"
+302,SQL
+303,"Master & Meta Data Management And Governance"
+303,"Data Wrangling"
+303,Unification
+304,"Data Reporting"
+304,Python
+305,Automation
+305,Finance
+305,Analysis
+306,"Data Science"
+306,SQL
+307,"Business Analytics"
+307,"Manager Quality Assurance"
+308,SQL
+308,Python
+308,San
+309,SQL
+310,"Health Insurance"
+310,Publishing
+311,"Automation Framework"
+311,Maven
+311,"Test Scripts"
+312,SQL
+312,Python
+312,"Data Entry"
+313,"Business Analyst"
+313,SQL
+314,"Process Design"
+314,Sales
+314,Linguistics
+315,SQL
+315,Python
+315,Agile
+316,"Computer Science"
+316,Automation
+316,"Manager Quality Assurance"
+317,Excel
+317,"Power BI"
+317,Mis
+318,Excel
+318,"Ad-Hoc And Insights"
+318,"Power BI"
+319,"Data Validation"
+319,"Business Analysis"
+320,"Supply Chain"
+320,"Data Management"
+321,"Trend Identification"
+321,"Crisis Management"
+321,Collaboration
+322,"Computer Skills"
+322,Geotechnics
+322,Rtk
+324,Sas
+325,"Sql Queries"
+325,"Data Extraction"
+325,Python
+326,Tableau
+326,SQL
+327,R
+327,Python
+327,"Business Intelligence"
+328,"Information Research"
+328,"Data Research"
+328,"Web Research"
+329,"Analytical Skills"
+329,"Data Management"
+330,"Power BI"
+330,Powerapps
+330,Analysis
+331,"Statistical Modeling"
+333,Statistics
+334,"Computer Science"
+334,Automation
+334,"Business Data Analyst"
+335,"Market Research"
+335,SQL
+336,"Data Visualization"
+336,Tableau
+337,"Analytical Skills"
+337,Hive
+338,"Business Intelligence"
+339,"Advanced Analytics"
+339,Pandas
+340,R
+340,Bi
+341,SQL
+342,Automation
+342,Python
+343,ERP
+343,"Data Review"
+344,SQL
+344,Python
+345,Usage
+345,Focus
+345,"Construction Equipment"
+346,Excel
+346,Python
+346,"Advanced Excel"
+347,"Computer Science"
+347,Automation
+347,"Business Analytics"
+348,Excel
+348,"Power BI"
+348,Tableau
+349,"Payment Reconciliation"
+349,Excel
+349,"Dispute Resolution"
+350,"Data Cleansing"
+350,"Data Visualization"
+351,"4Th Engineer"
+351,Qc
+351,Maritime
+352,"Supply Chain"
+352,SAP
+352,ERP
+353,"Pivot Table"
+353,Administrator
+353,Procurement
+354,Iam
+354,"Database Apps"
+355,SQL
+355,Python
+356,Microsoft
+356,"Big Data"
+356,"Power Point Presentation"
+358,"Business Intelligence"
+359,"Customer Analytics"
+359,"Data Manipulation"
+360,Python
+361,Python
+361,"Data Visualization"
+362,"Business Needs/Requirements And Recommend Solutions."
+363,"Root Cause Analysis"
+363,"Ai/Ml Testing"
+364,"Content Management"
+366,"Sql Queries"
+367,"Sql Queries"
+368,"Business Intelligence"
+369,"Banking Domain"
+369,"Business Data Analyst"
+370,"Data Science"
+371,SQL
+372,"Data Management"
+373,"Financial Analysis"
+373,ERP
+373,"Financial Reporting"
+374,Tableau
+375,"Data Science"
+376,SQL
+377,"Data Visualization"
+377,"Data Management"
+378,"Big Data"
+379,"Clinical Data Management"
+379,"Clinical Sas"
+380,Statistics
+381,"Business Intelligence"
+382,SQL
+383,Python
+383,SQL
+383,R
+384,SQL
+385,Python
+386,"Data Modeling"
+386,"Business Intelligence"
+387,"Machine Learning"
+388,"Business Intelligence"
+389,SQL
+390,"Data Visualization"
+391,Spark
+392,"Dax Power Bi"
+392,"Power BI"
+393,"Data Warehousing"
+394,"Data Mining"
+394,SQL
+394,Python
+395,Python
+395,SQL
+396,"Ml Testing"
+396,"Ai Testing"
+397,Formulas
+397,"Advanced Excel"
+397,Calculation
+398,"It Services"
+398,"Performance Management"
+399,"Data Modeling"
+400,"Data Visualization"
+401,SQL
+401,"Data Processing"
+401,Sms
+402,Cognos
+402,"Data Modeling"
+402,"Dimensional Modeling"
+403,"Data Management"
+404,Java
+404,C
+405,"Power BI"
+405,Agile
+405,"Sql Queries"
+406,SQL
+406,Python
+406,Git
+407,SQL
+408,"Data Integrity"
+408,R
+409,"Business Analytics"
+409,"Data Management"
+410,"Project Implementation"
+410,"Employee Engagement"
+410,"Power BI"
+411,"Business Intelligence"
+411,Logistics
+412,"Power BI"
+412,SQL
+413,"Project Management"
+413,Agile
+414,CRM
+415,"Analytical Skills"
+415,Tableau
+415,"Manager Quality Assurance"
+416,Simulation
+416,Consulting
+417,"Data Visualization"
+417,"Data Visualization Tools"
+417,"Business Intelligence"
+418,"Ms Excel"
+419,"Qualitative Research"
+419,"Process Automation"
+419,Rdbms
+420,Automation
+420,Sales
+421,"Data Science"
+422,"Retail Mis"
+422,"Account Data"
+422,"Mis Operations"
+424,"Database Management"
+424,"Data Cleansing"
+425,R
+425,Python
+426,Payer
+426,Python
+426,"Data Engineering"
+427,"Data Governance"
+428,"Data Management"
+429,"Reporting Analytics"
+430,Excel
+431,"Supply Chain"
+431,Microstrategy
+431,"Logistic Regression"
+432,"Power BI"
+432,"Data Extraction"
+432,"Sql Queries"
+433,Python
+433,"Information Technology"
+434,Python
+434,Troubleshooting
+434,"Data Modeling"
+435,SQL
+435,Python
+435,"Business Intelligence"
+436,"Data Infrastructure"
+436,"Snowflake Db"
+436,Db
+437,"Data Pipeline"
+438,"Business Analyst"
+438,SQL
+439,"Product Management"
+439,"Data Governance"
+440,Tableau
+440,Python
+440,SQL
+441,"Reporting Tools"
+442,"It Research"
+443,Python
+444,"It Project Delivery"
+445,SQL
+446,"Computer Science"
+446,Claims
+447,Python
+447,"Mahine Learning"
+447,"Wealth Management"
+448,"Web Analytics"
+448,"Medical Insurance"
+449,ERP
+449,"Renewable Energy"
+449,Aerospace
+450,Unix
+450,Networking
+450,Linux
+451,"Analytical Skills"
+451,Excel
+452,"Computer Science"
+452,Economics
+453,"Pivot Table"
+453,"Communication Skills"
+453,Vlookup
+454,"Data Visualizations"
+454,Kpi
+454,"Coral Draw"
+455,"Machine Learning"
+456,Excel
+456,SQL
+457,Trade
+457,"Head Business Development"
+457,Diagnostics
+458,"Data Science"
+458,"Data Management"
+459,"Health Insurance"
+459,"Product Engineering"
+459,Claims
+460,"Health Insurance"
+460,"Skill Development"
+460,"Data Modeling"
+461,"Sql Server"
+461,Looker
+462,CRM
+462,SQL
+463,"Data Engineering"
+464,"Data Pipeline"
+465,Consulting
+465,SQL
+466,Troubleshooting
+466,"Manager Quality Assurance"
+466,"Data Mining"
+467,SQL
+467,Forecasting
+468,Python
+468,SQL
+469,Microstrategy
+469,"Power BI"
+470,SQL
+471,Excel
+471,"Business Intelligence Tools"
+472,Python
+473,"Data Pipeline"
+474,SQL
+475,"Data Entry"
+475,Finance
+476,SQL
+477,SQL
+477,"Data Manipulation"
+477,"Communication Skills"
+478,"Data Scraping"
+478,"Data Cleansing"
+478,"Data Extraction"
+479,Usage
+479,"Project Implementation"
+480,"Consulting - Bfsi"
+481,SQL
+481,CRM
+481,Python
+482,San
+482,Sas
+482,Soc
+483,SQL
+483,Monitoring
+483,Python
+484,SQL
+485,SQL
+485,Sas
+485,R
+486,"It Services"
+486,Tableau
+486,Sas
+487,SQL
+487,CRM
+488,SQL
+488,CRM
+489,CRM
+489,Python
+490,"Data Mining"
+490,"Data Visualization"
+492,Pyspark
+492,"Aws Cloud"
+492,"Big Data"
+493,"Consulting - Bfsi"
+494,"Data Visualization"
+495,SQL
+495,Oracle
+496,"Data Management"
+497,"Consulting - Bfsi"
+498,SQL
+499,"Power BI"
+499,Usage
+500,"Informatica Mdm"
+500,"Power BI"
+500,Mdm
+501,"Data Management"
+501,Db2
+502,Db2
+502,"Data Modeling"
+503,SQL
+503,Linux
+503,Python
+504,"Master Data Management"
+504,Healthcare
+504,"Data Quality"
+505,SQL
+505,Python
+506,SQL
+506,"Health Insurance"
+506,Sem
+507,Sas
+507,SQL
+508,"Power BI"
+509,"Power BI"
+509,"Business Intelligence"
+509,"Data Warehousing"
+510,SQL
+511,SQL
+511,"Supply Chain"
+511,"Business Intelligence"
+512,Tableau
+512,"Data Visualization"
+512,Python
+513,"Supply Chain Management"
+513,"Data Integrity"
+514,SQL
+514,Sas
+514,"Process Improvement"
+515,"Electrical Engineering"
+515,"Supply Chain"
+516,"Microsoft Ssis"
+516,"Power BI"
+516,"Business Data Analysis"
+517,"Supply Chain Management"
+517,"Data Integrity"
+518,"Data Extraction"
+518,"Data Mapping"
+519,"Life Sciences"
+519,Adf
+519,Dw
+520,Fmcg
+520,Telecom
+520,Logistics
+521,Tableau
+523,"Data Science"
+523,"Lead Data Analyst"
+523,Mathematics
+524,"Data Reconciliation"
+524,"Data Migration"
+525,Assurance
+525,"Data Collection"
+526,"Google Sheets"
+526,"Google Data Studio"
+526,"Data Automation"
+527,"Power BI"
+527,SQL
+528,"General Accounting"
+528,Automation
+528,Ifs
+529,"Business Analysis"
+529,Gaming
+530,"Computer Science"
+530,"Analytical Skills"
+531,SQL
+532,SQL
+533,"Etl Process"
+533,Dashboards
+534,"Data Governance"
+534,"Financial Services"
+534,"Operational Risk"
+535,"Data Collection"
+535,Operations
+535,"Assistant Manager Mis"
+536,"Financial Services"
+536,"Asset Management"
+536,"Core Banking"
+537,"Computer Science"
+537,Sas
+537,"Performance Management"
+538,"Financial Services"
+538,"Relationship Management"
+538,"Investment Banking"
+540,"Banking Operations"
+540,"Power BI"
+540,"Mis Report Preparation"
+541,"Power BI"
+541,Azure
+542,Cognos
+542,"Production Support"
+542,"Technology Management"
+543,SQL
+543,Oracle
+544,SQL
+545,"Data Visualization"
+546,3D
+546,Automation
+546,Sales
+547,"Market Research"
+548,Automation
+548,"Data Collection"
+550,"Data Validation"
+551,"Root Cause Analysis"
+551,"Project Management"
+552,"Quantitative Analytics"
+553,"Business Intelligence"
+554,"Data Visualization"
+555,Consulting
+555,Linux
+555,Pharma
+556,Consulting
+556,Linux
+556,Pharma
+557,SQL
+557,Automation
+557,Python
+558,Consulting
+558,Monitoring
+559,SQL
+559,Mysql
+559,Python
+560,SQL
+560,Python
+561,"Power BI"
+562,"Advanced Excel"
+562,"Scm Analyst"
+563,Gtm
+563,Incentives
+563,"Sales Operations"
+564,ERP
+564,Warehouse
+564,"Senior Analyst"
+565,"Business Reporting"
+565,"Business Research"
+565,"Research Analysis"
+567,Troubleshooting
+567,SQL
+567,"Data Management"
+569,SQL
+569,Python
+570,"Production Support"
+570,Jit
+570,"Business Analytics"
+571,Quicksight
+572,Healthcare
+572,Billing
+573,"Power BI"
+573,"Dashboard Design"
+574,"Master Data Management"
+574,"Ms Office"
+574,"Corporate Governance"
+575,ERP
+575,Automation
+575,"Sap Erp"
+576,Insurance
+576,Modeling
+576,Software
+577,SQL
+577,"Data Mining"
+577,"Health Insurance"
+578,"Data Visualization"
+578,"Data Science"
+579,San
+579,Operations
+580,"Customer Service"
+580,SQL
+580,Japanese
+581,"Customer Service"
+581,SQL
+582,SQL
+582,"It Services"
+583,C
+584,Automation
+584,Agile
+584,Jira
+585,SQL
+585,Python
+585,"Manager Quality Assurance"
+586,SQL
+586,Xml
+586,"Business Intelligence"
+587,Excel
+587,"Power BI"
+587,Tableau
+588,Wordpress
+588,Intern
+589,Mis
+589,"Manager Quality Assurance"
+590,Analyst
+591,SQL
+592,SQL
+592,Python
+592,Pyspark
+593,Excel
+593,SQL
+593,Python
+594,"Process Improvement"
+594,Forecasting
+595,"Process Improvement"
+595,Forecasting
+596,SQL
+596,Ssis
+596,Debugging
+597,Troubleshooting
+597,SQL
+597,"Manager Quality Assurance"
+598,Troubleshooting
+598,SQL
+598,"Manager Quality Assurance"
+599,Troubleshooting
+599,SQL
+599,"Manager Quality Assurance"
+600,Troubleshooting
+600,SQL
+601,Troubleshooting
+601,SQL
+601,"Manager Quality Assurance"
+602,CRM
+602,Otc
+602,Sms
+603,"It Services"
+603,San
+604,"Business Intelligence"
+605,Mysql
+606,Healthcare
+606,Billing
+607,"Program Management"
+607,"Operations Manager"
+607,Excel
+608,"Dax Queries"
+608,"Power Bi Reports"
+608,"Business Intelligence"
+609,Pies
+609,"Data Management"
+609,"Data Extraction"
+610,"Health Insurance"
+610,"Data Validation"
+610,"Employee Engagement"
+611,"Computer Science"
+611,"Stakeholder Engagement"
+611,Coding
+612,"Computer Science"
+612,C
+612,"Business Data Analyst"
+613,Documentation
+613,"Data Management"
+613,"Data Mining"
+614,"Business Analyst"
+614,"Business Data Analyst"
+614,"Manager Technology"
+615,Documentation
+615,"Data Management"
+615,"Data Mining"
+616,Documentation
+616,"Data Management"
+616,"Data Mining"
+617,SQL
+617,Matlab
+618,SQL
+618,"Technical Support"
+618,"Application Development"
+619,Tableau
+619,Mysql
+619,SQL
+620,SQL
+621,"Data Scientist"
+621,"Data Science"
+621,Python
+622,"Presentation Skills"
+622,Excel
+622,"Statistical Tools"
+623,"Web Analytics"
+624,SQL
+624,"Manager Quality Assurance"
+625,SAP
+625,Adobe
+625,Automation
+626,SAP
+626,CRM
+626,Troubleshooting
+627,Informatica
+627,"Data Quality"
+628,SAP
+628,Silicon
+628,Adobe
+629,Mysql
+629,Python
+630,Networking
+630,Troubleshooting
+631,Excel
+631,Python
+631,SQL
+632,"Marketing Analytics"
+632,"Sales Analytics"
+634,Mis
+634,SQL
+634,Logistics
+635,Pharma
+635,Costing
+635,Packaging
+636,Sas
+636,Python
+637,Microstrategy
+637,"Business Intelligence"
+638,SQL
+638,Python
+638,"Associate Data Analyst"
+640,Python
+641,"Statistical Programming"
+641,Telecom
+641,Bfsi
+642,"Statistical Programming"
+642,Telecom
+642,Bfsi
+643,Telecom
+643,Bfsi
+644,R
+644,Hive
+644,Matlab
+645,"System Testing"
+645,SAP
+646,SQL
+646,"Data Processing"
+647,Tableau
+648,"Sql Server Development"
+648,Excel
+648,"Tsql Development"
+649,"Data Engineering"
+649,"User Stories"
+650,Python
+650,"Data Modeling"
+650,Selenium
+651,SQL
+651,Automation
+651,Python
+652,Metadata
+652,"Provident Fund"
+652,Linux
+653,"Project Management"
+653,"Product Engineering"
+654,"Project Management"
+654,SQL
+655,"Business Intelligence"
+655,"Data Visualization"
+656,Consulting
+656,SQL
+657,Excel
+657,Vba
+657,"Ms Office"
+658,Internship
+659,"Analytical Skills"
+659,Tableau
+659,"Machine Learning"
+660,SQL
+660,"Data Warehousing"
+661,Php
+661,Mysql
+661,Informatica
+662,Internship
+662,Mysql
+663,Automation
+663,"Continuous Improvement"
+664,Automation
+664,Python
+664,Agile
+665,SQL
+665,Agile
+665,"Software Design"
+666,SQL
+666,Adobe
+667,"It Services"
+667,"Computer Science"
+668,"Computer Science"
+668,"Business Analysis"
+668,"Information Security"
+669,SQL
+669,Hive
+669,Tableau
+670,Statistics
+671,"Data Profiling"
+672,Automation
+673,Analyst
+673,Programming
+674,"Google Analytics"
+675,"Data Visualization"
+676,"Power BI"
+676,"Bi Reporting"
+677,"Machine Learning"
+677,"Email Marketing"
+678,Bi/Dw
+678,"Power BI"
+678,"Dax Power Bi"
+679,"Exploratory Data Analysis"
+679,"Artificial Intelligence"
+679,"Natural Language Processing"
+680,"Data Science"
+681,Python
+681,Ux
+682,"Hypothesis Testing"
+682,Cloud
+682,Presto
+683,Mis
+683,"Fund Raising"
+683,"Financial Statements"
+684,"Data Migration"
+684,"Machine Learning"
+685,"Data Processing"
+685,Vlookup
+685,"Internet Surfing"
+686,Python
+686,Css
+687,SQL
+688,SQL
+689,"Data Science"
+689,"Data Management"
+690,Presto
+690,"A/B Testing"
+690,"Hypothesis Testing"
+691,Ux
+692,"Customer Management"
+692,"Manager Quality Assurance"
+692,Networking
+693,Python
+694,"Data Science"
+695,Sas
+695,"Database Queries"
+695,"Sql Queries"
+696,Logistics
+696,"Commercial Analyst"
+697,"Interpersonal Skills"
+697,"Investor Relations"
+698,SQL
+699,"Data Management"
+700,Tableau
+700,"Business Analyst"
+701,SQL
+701,Consulting
+702,Auditing
+702,Scm
+702,Monitoring
+703,"Manager Quality Control"
+703,Xml
+703,Publishing
+704,"Business System Analyst"
+704,"Business Analyst"
+705,"Customer Service"
+705,SQL
+706,"Global Operations"
+706,"Root Cause Analysis"
+706,"Human Capital"
+707,SQL
+708,Automation
+708,"Data Validation"
+709,SQL
+709,Python
+709,Tableau
+710,"Project Management"
+710,"Process Improvement"
+711,SQL
+711,Python
+711,"Business Intelligence"
+712,SQL
+712,Python
+712,Mis
+713,SQL
+713,Auditing
+714,CRM
+714,SQL
+715,"Data Infrastructure"
+716,"Customer Service"
+716,Backend
+717,"Business Analyst"
+718,SQL
+718,San
+718,"Data Structures"
+719,"Analytical Skills"
+719,Excel
+720,Windows
+721,Olap
+721,"Manager Quality Control"
+722,"Data Modeling"
+722,Statistics
+723,"Data Governance"
+723,Informatica
+725,Troubleshooting
+725,SQL
+726,"Sales Operations"
+726,"Ms Access"
+727,SQL
+727,"Business Intelligence"
+728,"Data Quality"
+728,"Lead Data Analyst"
+729,Mysql
+729,"Data Visualization"
+730,Python
+730,"Data Science"
+731,Healthcare
+732,"Operational Excellence"
+732,"Data Management"
+733,"Data Visualization"
+733,"Power BI"
+733,Tableau
+734,"Adhoc Analysis"
+734,"Power BI"
+735,Healthcare
+735,SQL
+736,Python
+736,Consulting
+737,"Data Warehousing"
+737,SQL
+737,"Business Intelligence"
+738,"It Training"
+738,Training
+739,SQL
+739,Cognos
+739,ERP
+740,Mis
+740,Fmcg
+740,"Sales Analysis"
+741,Excel
+741,Consulting
+742,"Machine Learning"
+742,SQL
+743,"Data Visualization"
+743,"Advanced Excel"
+743,"Reporting And Analytics"
+744,"Snowflake Db"
+745,"Operations Analyst"
+745,"Senior Executive"
+746,"Predictive Analytics"
+746,SQL
+747,San
+747,"Data Structures"
+748,"Manager Quality Assurance"
+748,Monitoring
+748,Payroll
+749,"Process Improvement"
+749,"Data Mining"
+749,Php
+750,Tableau
+750,"Power BI"
+751,Python
+752,"Communication Skills"
+752,"Presentation Skills"
+752,"Report Generation"
+753,"Data Visualization"
+754,"Data Scientist"
+755,SQL
+756,"Senior Data Analyst"
+756,Tableau
+757,"Power BI"
+758,"Senior Data Analyst"
+758,Java
+759,"Senior Analyst"
+759,"Data Modeling"
+759,Coding
+760,SQL
+761,"Customer Support"
+762,"Aws Data Lake"
+762,Airflow
+762,"Power BI"
+763,Automation
+763,"Business Intelligence"
+764,SQL
+765,Telecom
+765,Procurement
+766,CRM
+767,"Flow Cytometry"
+768,"Business Intelligence"
+768,Tableau
+768,SQL
+769,Python
+769,Coding
+770,Coding
+770,Staffing
+771,Sas
+771,Spss
+772,"Customer Support"
+772,CRM
+773,SQL
+773,Linux
+773,Xml
+774,Training
+774,Excel
+775,"Sales Executive"
+776,Python
+777,"Financial Reporting"
+777,SAP
+777,"Financial Planning"
+778,Consulting
+778,Python
+779,Consulting
+779,Python
+780,Consulting
+780,Python
+781,C
+782,"Excel Powerpoint"
+782,"Analytical Skills"
+782,"Data Interpretation"
+783,"Sql Server"
+784,SQL
+784,Ssrs
+784,"Data Modeling"
+785,SQL
+785,Informatica
+785,Ssrs
+786,"Ms Office"
+786,Advanced
+787,"Communication Skills"
+787,Iq
+787,"Sql Queries"
+788,SQL
+788,Python
+788,Troubleshooting
+789,Coding
+789,"Data Mining"
+789,"Business Intelligence"
+790,Underwriting
+790,Claims
+791,Python
+791,"Data Modeling"
+791,"Stored Procedures"
+792,"Business Analyst"
+792,"Project Management"
+792,Consulting
+793,Mis
+793,SQL
+794,"Data Science"
+794,R
+794,"Power BI"
+795,"Business Strategy"
+795,"Operations Management"
+796,"Team Management"
+796,CRM
+796,"Data Management"
+797,SQL
+797,"Process Improvement"
+797,Http
+798,Rdbms
+799,Tableau
+799,"Data Modeling"
+799,"Agile Development"
+800,Healthcare
+800,SQL
+800,"Process Improvement"
+801,"Data Validation"
+801,Iso
+801,Healthcare
+802,SQL
+802,Ssis
+802,"Data Modeling"
+803,Monitoring
+803,Training
+803,"Customer Experience"
+804,"Technical Support"
+804,Ites
+804,SQL
+805,"Data Validation"
+805,Usage
+806,CRM
+806,"Supply Chain Management"
+807,CRM
+807,"Sales Operations"
+807,"Supply Chain Management"
+808,Rfp
+808,"It Services"
+809,Bpo
+809,"Manager Quality Assurance"
+809,"Etl Testing"
+810,Bpo
+810,Excel
+810,Coding
+811,"Business Analyst"
+811,"Data Visualization"
+812,"Market Research"
+812,"Email Marketing"
+812,"Social Media"
+813,"Data Collection"
+813,"Power BI"
+814,Microsoft
+814,"Power BI"
+815,Healthcare
+815,"Data Management"
+816,"Data Architect"
+816,"Data Modeling"
+816,SQL
+817,"Google Data Studio"
+817,"Power BI"
+817,Mysql
+818,"Data Science"
+818,"Data Scientist"
+818,"Machine Learning"
+819,Macros
+819,"Data Mining"
+819,"Data Collection"
+820,C
+821,Mis
+821,"Ms Access"
+821,Monitoring
+822,SQL
+822,Agile
+822,Scrum
+823,"Digital Marketing"
+824,"Consulting - Healthcare"
+825,Metadata
+825,Python
+826,Oracle
+826,"Data Structures"
+827,"Lead Data Analyst"
+827,Python
+827,Coding
+828,Reconciliation
+828,Sas
+828,Underwriting
+829,SQL
+829,Actuarial
+829,"Continuous Improvement"
+830,Underwriting
+830,Claims
+830,Actuarial
+831,Microstrategy
+831,"Data Visualization"
+832,Python
+833,Workflow
+833,Scrum
+833,Jira
+834,"Data Management"
+834,Finance
+834,"Data Quality"
+835,"Ms Office"
+835,Consulting
+835,San
+836,Uml
+836,Cognos
+837,"Business Data Analyst"
+837,Usage
+838,"Clinical Research"
+838,Pharma
+839,"Power BI"
+839,Sas
+840,"Base Sas"
+840,"Risk Data"
+840,Pyspark
+841,"Business Intelligence"
+841,Hql
+841,"Business Analytics"
+842,Procurement
+842,"Data Loader"
+842,Fieldglass
+843,"Pivot Table"
+843,"R Platform"
+844,"Crm Systems"
+844,ERP
+844,"System Analysis"
+845,SAP
+845,Gcp
+845,Cmis
+846,"Web Designing"
+846,"Web Development"
+846,"Usability Testing"
+847,"Application Development"
+847,Min
+848,"Data Modeling"
+848,Excel
+848,"Sql Queries"
+849,SQL
+849,Monitoring
+849,Python
+850,SQL
+850,CRM
+851,SQL
+851,CRM
+852,San
+852,Sas
+852,Soc
+853,SQL
+853,CRM
+853,Python
+854,CRM
+854,Python
+855,SQL
+855,CRM
+856,"It Services"
+856,"Computer Science"
+856,Tableau
+857,CRM
+857,San
+857,Soc
+858,R
+859,"Google Data Studio"
+859,"Google Analytics"
+859,"Google Scripts"
+860,"Communication Skills"
+860,"Data Integrity"
+860,"Report Development"
+861,"Compensation Analyst"
+861,Hris
+862,"Risk Data"
+862,Basel
+862,Sas
+863,"Analytical Skills"
+863,"Data Extraction"
+863,Workday
+864,"Power Bi Reporting"
+864,Excel
+864,"Tableau Reporting"
+865,San
+865,"Data Modeling"
+866,"Power BI"
+866,"Advanced Excel"
+867,SQL
+867,Html
+867,"Business Analysis"
+868,SQL
+868,Hive
+868,Spark
+869,"Data Warehousing"
+869,"Data Modeling"
+869,"Data Visualization"
+870,"Data Scientist"
+871,"Data Integration"
+871,ETL
+872,"Data Science"
+873,"Power BI"
+873,Alteryx
+873,Tableau
+874,"Computer Science"
+874,"Machine Learning"
+875,C
+876,CRM
+877,"Pivot Table"
+877,Vlookup
+878,Tensorflow
+878,"Power BI"
+878,"Aws Cloud"
+879,"Power BI"
+879,Tableau
+879,SQL
+880,"Sales Mis"
+880,"Ms Access"
+880,Mis
+881,Tableau
+881,Qlikview
+881,"Power BI"
+882,Sas
+882,Gcp
+882,Alteryx
+883,"Tableau Dashboard"
+883,"Sql Queries"
+883,Tableau
+884,Mining
+884,"Technical Writing"
+884,"Fixed Assets"
+885,"Big Data Analytics"
+885,"Big Data Testing"
+885,"Big Data"
+886,"Project Management"
+886,"Data Cleaning And Preparation"
+886,"Data Management"
+887,"Customer Service"
+887,Auditing
+887,Loans
+888,"Data Intelligence"
+888,Sas
+888,"Power BI"
+889,"Client Coordination"
+889,"Data Management"
+889,"Advanced Excel"
+890,"Business Analytics"
+890,"Advanced Excel"
+891,"Financial Services"
+891,SQL
+891,Python
+892,"Clinical Data Analyst"
+892,Auditing
+892,Billing
+893,"Data Entry"
+893,Healthcare
+893,"Process Improvement"
+894,Outbound
+894,Telemarketing
+895,SQL
+895,Troubleshooting
+895,"Data Modeling"
+896,"Sql Server"
+897,"Communication Skills"
+897,Computer
+897,"Spoken English"
+898,Powerpoint
+898,SQL
+899,"Sql Server Analysis Services"
+899,"Sql Server Development"
+899,"Sql Server Reporting Services"
+900,Mathematics
+900,Statistics
+901,"Corporate Strategy"
+901,"Business Strategy"
+901,"Business Analyst"
+902,Fintech
+902,Bfsi
+902,Dashboarding
+903,Macros
+904,Tableau
+905,Excel
+905,"People Analytics"
+905,Powerbi
+906,"Power BI"
+906,Sas
+906,"Data Cleansing"
+907,"Manager Quality Assurance"
+908,"Manager Quality Assurance"
+910,"Analytics Reporting"
+910,Azure
+911,Visualizing
+911,Celonis
+911,Integration
+912,"Corporate Strategy"
+912,"Business Strategy"
+912,"Business Analyst"
+913,"Performance Tuning"
+913,Metadata
+914,"Data Management"
+915,"Consulting - Bfsi"
+916,SQL
+916,Mysql
+917,"Google Sheets"
+917,"Communication Skills"
+917,"Ms Excel"
+918,SQL
+918,Python
+919,Procurement
+919,"Manager Quality Assurance"
+919,"Supply Chain"
+920,"Statistical Analysis"
+920,"Data Science"
+921,"Business Process"
+921,Basic
+921,"Statistical Analysis"
+922,SQL
+922,Javascript
+922,Xml
+923,Payroll
+923,Excel
+924,"Support Analyst"
+925,"Support Analyst"
+926,"Performance Tuning"
+926,Outbound
+926,"Data Conversion"
+927,Coding
+927,"Data Modeling"
+927,Spark
+928,"Data Collection Systems"
+929,Sas
+929,"Data Processing"
+930,"Automation Framework"
+930,Telecom
+930,"Automation Testing"
+931,"Product Analyst"
+932,Azure
+933,"Data Transformation"
+933,"Data Quality"
+933,"Data Manipulation"
+934,"Data Transformation"
+934,"Data Quality"
+934,"Data Manipulation"
+935,Payroll
+935,Automation
+935,"Business Transformation"
+936,"Business Analyst"
+936,"Excel Spreadsheets"
+936,"Google Sheets"
+937,"Data Research"
+937,"Business Research"
+937,"Business Analytics"
+938,"Real Estate Management"
+938,"In4Velocity Erp"
+938,"Mis Operations"
+939,T-Sql
+939,"Microsoft Ssis"
+939,"Web Api"
+940,"Performance Evaluation"
+941,"Google Data Studio"
+941,"Google Sheets"
+941,"Ms Excel"
+942,"Data Cleansing"
+942,"Report Generation"
+942,Metadata
+943,"Performance Tuning"
+943,Outbound
+943,"Data Conversion"
+944,Outbound
+944,Vba
+944,Vlookup
+945,SQL
+945,"Data Mining"
+946,SQL
+946,Html
+946,"Business Intelligence"
+947,"Advanced Excel"
+947,"Communication Skills"
+947,"Power BI"
+948,"Medical Coding Analyst"
+948,"Medical Data Analyst"
+948,"Clinical Data Analyst"
+949,"Data Wrangling"
+949,Alteryx
+949,Hadoop
+950,Adwords
+950,"Google Analytics"
+950,"Data Studio"
+951,"Data Validation"
+951,"Mis Preparation"
+951,"Power BI"
+952,"Business Intelligence"
+952,Hql
+952,"Business Analytics"
+953,"Data Validation"
+953,"Mis Preparation"
+953,"Power BI"
+954,"Sales Analysis"
+954,"Gtm Strategy"
+954,"Go-To-Market Strategy"
+955,"Power BI"
+955,"Dax Power Bi"
+956,SQL
+957,"Email Marketer"
+957,"Lead Generation"
+957,"Email Marketing Executive"
+958,"Artificial Intelligence"
+958,"Data Visualization"
+958,"Machine Learning"
+959,"Power BI"
+959,Tableau
+960,Excel
+960,Liquidity
+961,"Project Management"
+961,"Process Improvement"
+962,SQL
+962,"Data Collection"
+963,Tableau
+963,"Business Data Analyst"
+963,SQL
+964,"Computer Science"
+964,"Business Objects"
+964,"Data Validation"
+965,"Data Visualization"
+965,"Power BI"
+966,Tableau
+966,"Business Intelligence"
+967,"Six Sigma"
+967,"Design Of Experiments"
+967,Spc
+968,"Google Analytics"
+968,"Adobe Launch"
+969,"Ms Excel"
+970,"Power BI"
+970,Tableau
+970,SQL
+971,Pyspark
+971,Python
+971,SQL
+972,"Data Management"
+972,"Mis And Insights"
+973,"Analytical Skills"
+973,"Report Generation"
+974,"Power BI"
+975,"Business Intelligence"
+975,Hql
+975,"Business Analytics"
+976,"Business Intelligence"
+976,Hql
+976,"Business Analytics"
+977,"Data Transformation"
+977,"Data Manipulation"
+978,"Gis Operation"
+978,"Gis Mapping"
+978,"Gis Data Analyst"
+979,"Environment Health Safety"
+979,"Report Preparation"
+980,"Computer Science"
+980,Prototype
+981,"Portfolio Management"
+981,Sas
+981,Hadoop
+982,Airflow
+982,S3
+982,"To Extract"
+983,"Power BI"
+983,Tableau
+984,"Business Intelligence"
+985,"Data Scientist"
+986,"Ms Excel"
+986,"Power BI"
+986,"Tableau Reporting"
+987,Tableau
+987,Dashboards
+988,"Report Generation"
+988,"Power BI"
+988,Collaboration
+989,"Data Quality"
+989,"Data Enrichment"
+989,"Data Manipulation"
+990,Develop
+990,Implementing
+991,"Snowflake Snowpro"
+991,Nosql
+991,Postgresql
+992,Python
+992,"Project Management"
+993,Excel
+993,"Data Cleansing"
+993,Tableau
+994,"Sap Bo"
+994,Excel
+994,"Power BI"
+995,Bpo
+995,"Customer Service"
+996,"Ms Office"
+996,"Market Research"
+996,"Data Mining"
+997,"Ms Office"
+997,"Market Research"
+998,CRM
+998,"Market Research"
+998,Pharma
+999,"Functional Testing"
+999,"Solution Analyst"
+999,"Compliance Management"
+1000,Python
+1000,SQL
+1001,Python
+1001,"Performance Testing"
+1002,CRM
+1002,SQL
+1003,Automation
+1003,Finance
+1004,Visualization
+1004,"Net Revenue Management"
+1004,Azure
+1005,Procurement
+1005,Metadata
+1005,"Web Services"
+1006,"Data Science"
+1006,Python
+1007,Bigquery
+1007,SQL
+1008,Python
+1008,R
+1009,R
+1009,Python
+1010,Statistics
+1010,"Data Modeling"
+1011,"Power BI"
+1011,"Data Management"
+1012,"Analytical Skills"
+1012,"Industry Research"
+1012,Sales
+1013,"Power BI"
+1013,"Nosql Databases"
+1013,Mysql
+1014,"Financial Services"
+1014,"Power BI"
+1014,Crs
+1015,"Data Science"
+1015,"Data Mining"
+1015,"Data Extraction"
+1016,"Power BI"
+1016,Tableau
+1017,"Data Science"
+1017,Excel
+1017,"Financial Services"
+1018,"Domo Tool"
+1019,"Data Visualization"
+1020,"Ssis Packages"
+1020,"Maintenance Of Etl Jobs"
+1020,"Data Management And Analytics"
+1021,"Statistical Modeling"
+1021,Python
+1022,Finance
+1022,"Senior Data Analyst"
+1023,"Data Models"
+1023,ETL
+1023,Ssis
+1024,Html
+1024,Xml
+1024,"Adobe Acrobat"
+1025,Outsourcing
+1025,Procurement
+1026,"Asset Management"
+1026,Excel
+1027,Procurement
+1027,"Data Processing"
+1028,SQL
+1028,Informatica
+1029,Coding
+1030,"Data Manipulation"
+1030,"Portfolio Analysis"
+1031,"Data Manipulation"
+1031,"Portfolio Analysis"
+1032,"Business Intelligence"
+1032,"Data Mining"
+1032,"Data Extraction"
+1033,Tableau
+1034,"Credit Analysis"
+1034,"Financial Data Analyst"
+1034,"Financial Analysis"
+1035,"Data Validation"
+1035,"Power BI"
+1035,"Data Management"
+1036,SQL
+1036,Python
+1036,"Business Intelligence"
+1037,SQL
+1037,"Stakeholder Management"
+1038,SQL
+1038,Automation
+1039,SQL
+1039,Javascript
+1039,Xml
+1040,"Business Reporting"
+1041,Tools
+1041,"Data Mining"
+1042,"Data Mining"
+1042,Adobe
+1043,Adobe
+1043,Spss
+1043,"Microsoft Excel"
+1044,Aws
+1044,"Data Modeling"
+1044,"Data Science"
+1045,"Data Science"
+1045,"Data Scientist"
+1045,Python
+1046,"Power BI"
+1046,"Data Visualization"
+1047,"Technical Services"
+1047,"Data Management"
+1047,"Sql Database"
+1048,"Operations Research"
+1048,"Email Marketing"
+1048,Staffing
+1049,"Manager Technology"
+1050,"Crm Systems"
+1050,ERP
+1050,"System Analysis"
+1051,Bba
+1051,Bpo
+1051,Calling
+1052,"Business Intelligence"
+1052,Hql
+1052,"Business Analytics"
+1053,SQL
+1053,Python
+1053,R
+1054,SQL
+1054,Networking
+1054,Automation
+1055,SQL
+1056,"Power BI"
+1056,"Big Data"
+1057,"Data Transformation"
+1057,"Data Enrichment"
+1057,"Data Wrangling"
+1058,"Email Marketer"
+1058,"Email Marketing"
+1058,"Bulk Mailer"
+1059,"Data Transformation"
+1059,Matplotlib
+1059,"Data Research"
+1060,"User Management"
+1060,Usage
+1061,Javascript
+1061,"Web Development"
+1061,Agile
+1062,"Data Modeling"
+1063,Python
+1064,SQL
+1065,"Control Testing Automation"
+1065,Sas
+1065,"Shell Scripting"
+1066,"Advanced Excel"
+1067,"Business Intelligence"
+1067,"Power BI"
+1067,Tableau
+1068,"Hr Generalist"
+1068,Hrbp
+1069,Pyspark
+1069,Java
+1069,Scala
+1070,Pyspark
+1070,Java
+1070,Scala
+1071,"Data Validation"
+1071,"Pivot Table"
+1071,"Power BI"
+1072,Pyspark
+1072,Java
+1072,Scala
+1073,Pyspark
+1073,Cloud
+1073,"Bi Tools"
+1074,Pyspark
+1074,Scala
+1075,Dwh
+1075,"Power BI"
+1075,"Python Scripting"
+1076,Screening
+1076,Edq
+1076,"Oracle Watch"
+1077,Qc
+1077,"Sql Queries"
+1078,Azure
+1078,"Machine Learning"
+1078,Cloud
+1079,Mis
+1079,"Mis Operations"
+1079,"Data Management"
+1080,Consulting
+1080,"Market Research"
+1081,Excel
+1081,"Business Intelligence Platforms"
+1081,"Power BI"
+1082,Internship
+1083,Backend
+1083,"Data Management"
+1084,Consulting
+1084,"Industry Research"
+1084,Management
+1085,Consulting
+1085,Recruitment
+1085,"Industry Research"
+1086,Visualization
+1086,"Financial Reporting"
+1086,"Financial Analytics"
+1087,Excel
+1087,"Business Analytics"
+1087,"Data Manipulation"
+1088,"Data Visualization"
+1088,"Data Governance"
+1089,Excel
+1089,"Google Suite"
+1090,Excel
+1090,"Ms Office"
+1091,SQL
+1091,Mysql
+1091,"Project Management"
+1092,"Teaching Skills"
+1093,"Analytical Skills"
+1093,"Excellent Communication In English"
+1094,"Big Data"
+1094,Aws
+1094,"Data Warehousing"
+1095,Powerbi
+1095,"Digital Marketing Analyst"
+1096,"Automation Framework"
+1096,Python
+1098,"Customer Service"
+1098,"Client Servicing"
+1098,"Report Generation"
+1099,"Senior Data Analyst"
+1099,Aws
+1100,Troubleshooting
+1100,Consulting
+1101,"Data Quality"
+1101,Informatica
+1102,"Data Management"
+1103,SAP
+1103,"Manager Quality Assurance"
+1103,Maximo
+1104,"Sales Dashboard"
+1104,"Power BI"
+1104,Coding
+1105,Azure
+1105,Api
+1105,ETL
+1106,"Sql Queries"
+1106,Informatica
+1106,"Data Warehousing"
+1107,"Supply Chain"
+1107,"Hub Operations"
+1108,"Analytical Skills"
+1108,"Data Mining"
+1108,"Data Cleansing"
+1109,Tableau
+1109,Maritime
+1110,"Azure Cost Management"
+1110,Azure
+1111,"Data Visualization"
+1112,Python
+1112,R
+1113,"Power BI"
+1114,"Retail Analytics"
+1114,"Power BI"
+1114,"Data Visualization"
+1115,Excel
+1115,"Power BI"
+1116,Equity
+1116,SAP
+1116,Informatica
+1117,"Data Science"
+1117,"Data Mining"
+1118,SQL
+1118,Agile
+1118,Scrum
+1119,"Manager Quality Control"
+1119,Operations
+1120,CRM
+1120,SQL
+1120,Sms
+1121,Javascript
+1121,Jquery
+1121,Css
+1122,"Sql Queries"
+1122,ETL
+1122,Python
+1123,SQL
+1123,"Power BI"
+1124,"Consulting - Bfsi"
+1125,Troubleshooting
+1126,"Power BI"
+1126,"Solution Design"
+1127,"Career Development"
+1127,"Diversity And Inclusion"
+1128,"Data Manipulation"
+1128,"Implementing Data Models"
+1128,"Sap Crm"
+1129,"Data Automation"
+1129,"Cloud Platforms"
+1129,"Api Integration"
+1130,Sas
+1130,"Power BI"
+1130,Anmf
+1131,"Financial Analysis"
+1131,Excel
+1131,Accounting
+1132,"Data Modelling"
+1132,"Business Analyst"
+1132,Vba
+1133,"Data Science"
+1133,"Power BI"
+1133,"Capacity Planning"
+1134,"Business Intelligence"
+1134,Hql
+1134,"Business Analytics"
+1135,Consulting
+1135,"Market Research"
+1136,"Big Data"
+1137,"Data Validation"
+1137,"Data Compilation"
+1137,"Database Management"
+1138,Kubeflow
+1138,"Aws Lambdas"
+1138,"Amazon Redshift"
+1140,Delivery
+1140,Confluence
+1140,Ecommerce
+1141,Statistics
+1141,Python
+1142,"Data Cleansing"
+1142,"Advanced Excel"
+1143,"Business Intelligence"
+1143,"Predictive Modelling"
+1143,Portfolio
+1144,Excel
+1144,"Data Management"
+1145,"Unica Campaign"
+1145,"Power BI"
+1145,"Data Mining"
+1146,"Business Analyst"
+1146,"System Design"
+1147,Excel
+1147,"Business Research"
+1147,Freshers
+1148,"Google Data Studio"
+1148,"Power BI"
+1148,"Excel Dashboards"
+1149,"Mis Reporting"
+1151,C
+1152,"Market Analyst"
+1152,"Power BI"
+1152,"Market Insight"
+1153,"Power BI"
+1153,Snowflake
+1153,ETL
+1154,"Manager Quality Assurance"
+1154,Troubleshooting
+1154,"Data Mining"
+1155,"Cloud Architect"
+1155,"Big Data Analyst"
+1155,Simulink
+1156,SQL
+1156,Python
+1156,"Business Intelligence"
+1157,"Power BI"
+1157,Sas
+1158,"Apoc Library"
+1158,Neo4J
+1158,Cypher
+1159,"Apoc Library"
+1159,Neo4J
+1159,Cypher
+1160,"Apoc Library"
+1160,Neo4J
+1160,Cypher
+1161,"Apoc Library"
+1161,Neo4J
+1161,Cypher
+1162,"Business Intelligence"
+1162,Hql
+1162,"Business Analytics"
+1163,Azure
+1163,Snowflake
+1164,Sed
+1164,"Shell Scripting"
+1164,Awk
+1165,"Shared Services"
+1166,Bba
+1166,Bpo
+1166,Calling
+1167,Excel
+1167,"Power BI"
+1167,Tableau
+1168,"Testing Tools"
+1168,Sparksql
+1168,"Data Tester"
+1169,"Data Entry"
+1169,Leasing
+1169,Cre
+1170,R
+1170,Python
+1171,Malayalam
+1171,Python
+1172,"Data Mining"
+1172,"Data Cleansing"
+1173,Metadata
+1173,Python
+1174,"Data Mapping"
+1175,Python
+1175,"Stored Procedures"
+1175,"Machine Learning"
+1176,"Data Mining"
+1177,"Dashboard Design"
+1178,SQL
+1178,"Power BI"
+1178,Python
+1179,Plm
+1179,ERP
+1179,"Technical Management"
+1180,Python
+1180,"Business Requirements"
+1181,Python
+1182,Automation
+1182,"Continuous Improvement"
+1183,"Senior Data Analyst"
+1183,Oracle
+1183,Ssis
+1184,"Customer Support"
+1185,"Market Research"
+1185,"Data Mining"
+1186,Automotive
+1186,"Manager Internal Audit"
+1187,Sas
+1188,SQL
+1189,Macros
+1189,Photoshop
+1189,Adobe
+1190,CRM
+1190,"Project Management"
+1191,"Business Process"
+1192,Javascript
+1193,Testing
+1193,Python
+1193,"Open Source"
+1194,"Predictive Modeling"
+1194,"Data Modeling"
+1195,Gis
+1195,Petrochemical
+1195,"Manager Quality Assurance"
+1196,SQL
+1196,Python
+1196,"Business Analysis"
+1197,SQL
+1197,"Process Improvement"
+1198,SQL
+1198,Python
+1198,"Power BI"
+1200,Iiot
+1201,R
+1202,Troubleshooting
+1202,Reconciliation
+1203,SQL
+1203,Monitoring
+1204,SQL
+1205,Html
+1205,Automation
+1205,Workflow
+1206,Troubleshooting
+1206,"Data Mining"
+1206,E-Learning
+1207,"Performance Tuning"
+1207,"Sap Fico"
+1208,Azure
+1208,Python
+1209,Presales
+1209,"Solution Architect"
+1210,"Power BI"
+1211,"Data Mining"
+1211,"Data Cleansing"
+1212,Helpdesk
+1212,"Data Mining"
+1213,"Analyst 1"
+1213,SQL
+1214,Automation
+1214,"Data Collection"
+1216,"Data Collection"
+1216,Tableau
+1217,Tableau
+1217,"Reporting Analytics"
+1217,"Analytics Dashboards"
+1218,"Life Sciences"
+1218,SQL
+1219,SQL
+1219,"Data Visualization"
+1220,"Data Visualization"
+1220,Statistics
+1221,SQL
+1221,Python
+1221,"Data Modeling"
+1222,"Clinical Operations"
+1222,Gcp
+1222,Pharma
+1223,"Data Quality"
+1223,"Business Analyst"
+1223,"Data Governance"
+1224,CRM
+1225,C
+1226,"Data Visualization"
+1226,Tableau
+1227,"Hr Analytics"
+1228,"Data Visualization"
+1228,Tableau
+1229,SQL
+1229,Mysql
+1229,"Project Management"
+1230,Php
+1230,Mysql
+1230,"Business Intelligence"
+1232,Seo
+1232,Sem
+1233,Html
+1233,Mysql
+1233,"Front End"
+1234,C
+1235,"Computer Science"
+1235,"Mis Reporting"
+1236,SQL
+1236,"Open Source"
+1236,Python
+1237,"Process Improvement"
+1238,Training
+1238,"Voice Process"
+1239,SQL
+1239,"Data Mining"
+1240,Python
+1240,Monitoring
+1241,"Data Entry"
+1242,Monitoring
+1242,"Web Analytics"
+1243,CRM
+1243,Consulting
+1243,"Account Management"
+1244,"Market Analysis"
+1244,"Data Visualization"
+1244,"Data Collection"
+1245,SQL
+1245,"Data Processing"
+1246,SQL
+1246,Ssis
+1246,"Data Modeling"
+1247,Salesforce
+1247,Management
+1248,Usage
+1248,"Digital Analytics"
+1248,Cgi
+1249,"Data Science"
+1249,"Data Scientist"
+1250,"Consulting - Real Estate"
+1251,Troubleshooting
+1251,"Data Mining"
+1251,"Data Cleansing"
+1252,"Computer Science"
+1252,"Data Collection"
+1253,SQL
+1253,Python
+1253,Sas
+1254,Tableau
+1254,"Report Writing"
+1255,SQL
+1255,"Process Improvement"
+1256,"Business Analyst"
+1256,"Project Management"
+1257,Tableau
+1257,"Business Intelligence"
+1258,SQL
+1258,Automation
+1259,"Project Management"
+1259,"Technical Support"
+1260,SQL
+1261,Mysql
+1261,Agile
+1262,"Data Management"
+1263,Mis
+1263,Healthcare
+1264,SQL
+1265,Administration
+1265,Nursing
+1265,"Business Operations"
+1266,Python
+1266,Microsoft
+1266,Matlab
+1267,"Business Intelligence"
+1268,"Data Mining"
+1268,"Data Cleansing"
+1269,Troubleshooting
+1269,Reconciliation
+1269,SQL
+1270,Automation
+1270,SQL
+1270,Python
+1271,"Power BI"
+1271,Python
+1272,"Data Modeling"
+1272,"Data Science"
+1273,"Data Governance"
+1274,C
+1275,SQL
+1275,Microstrategy
+1276,Mysql
+1276,Python
+1276,Rdbms
+1277,Internship
+1277,"Digital Media"
+1277,"Balance Sheet"
+1278,"Data Cleansing"
+1278,"Google Analytics"
+1279,Outbound
+1279,E-Learning
+1279,"Content Development"
+1280,Backend
+1280,"Data Modeling"
+1281,"Data Warehousing"
+1282,Cv
+1282,"Data Collection"
+1282,"Environmental Science"
+1283,"Data Quality"
+1284,"Data Science"
+1284,Python
+1285,"Power BI"
+1285,Excel
+1285,"Sql Queries"
+1286,Mis
+1287,"Data Quality"
+1288,"Hr Analytics"
+1289,SQL
+1289,"Data Modeling"
+1290,Spss
+1290,"Data Science"
+1290,Wincross
+1291,"Ms Office"
+1291,"Content Writing"
+1291,Sem
+1292,Python
+1292,"Statistical Programming"
+1292,Programming
+1293,"R Programming"
+1293,"Power BI"
+1293,Mis
+1294,"Manager Quality Control"
+1294,Mis
+1294,SQL
+1295,"Data Science"
+1295,"Data Scientist"
+1295,"Machine Learning"
+1296,SQL
+1296,Python
+1297,"Software Services"
+1297,"Data Visualization"
+1297,Software
+1298,"Ms Office"
+1298,SQL
+1299,CRM
+1299,ERP
+1300,"Business Intelligence"
+1300,"Back Office Coordinator"
+1301,"Senior Data Analyst"
+1301,"Software Services"
+1301,Hoovers
+1302,Pharma
+1302,"Clinical Research"
+1302,Pharmacy
+1303,"Google Tag Manager"
+1304,"Machine Learning"
+1304,"Artificial Intelligence"
+1305,"Data Science"
+1305,Intern
+1306,Html
+1306,Xml
+1306,Pdf
+1307,"Reporting Analytics"
+1308,SQL
+1309,SQL
+1309,Javascript
+1309,Automation
+1310,SQL
+1310,"Power BI"
+1311,Intern
+1311,SQL
+1312,SQL
+1312,Sas
+1313,"Data Profiling"
+1314,SQL
+1314,T-Sql
+1315,"Business Intelligence"
+1315,Qliksense
+1315,Qlikview
+1316,"Data Mining"
+1316,"Computer Science"
+1317,"Social Media"
+1318,"Supply Chain"
+1318,"Digital Media"
+1319,Python
+1319,"Predictive Modeling"
+1320,Python
+1320,"Data Science"
+1321,Oracle
+1321,Perl
+1321,Db2
+1322,Automation
+1322,"Power BI"
+1323,Consulting
+1323,"Renewable Energy"
+1324,"Computer Science"
+1324,"Data Modeling"
+1325,Sas
+1326,SQL
+1326,Python
+1327,"Power BI"
+1327,ETL
+1327,"Data Reconciliation"
+1328,SQL
+1328,"Manager Quality Assurance"
+1329,Petroleum
+1329,Mining
+1329,"Technical Writing"
+1330,"Report Generation"
+1331,"Business Intelligence"
+1332,"Data Management"
+1332,"Data Manipulation"
+1333,SQL
+1334,Consulting
+1335,Translation
+1335,Excel
+1336,Postgresql
+1336,"Manager Program Management"
+1336,"Strategic Planning"
+1337,SQL
+1337,Sas
+1337,"Process Improvement"
+1338,"Market Analysis"
+1338,"Database Administration"
+1339,"Hr Executive"
+1339,Sas
+1339,Finance
+1340,"Web Technologies"
+1341,"Junior Data Analyst"
+1341,Query
+1342,"Senior Data Analyst"
+1342,Query
+1343,Architect
+1344,Professional
+1345,SQL
+1345,Mysql
+1345,Python
+1346,Professional
+1347,Professional
+1348,Sas
+1348,"Data Mining"
+1349,Professional
+1350,SQL
+1350,Python
+1350,"Senior Data Analyst"
+1351,SQL
+1351,Query
+1352,Python
+1352,Wellness
+1353,Outbound
+1353,"Back Office"
+1353,"Customer Support"
+1354,SQL
+1354,"Project Management"
+1355,"Business Solutions"
+1356,Unix
+1356,Remedy
+1356,Monitoring
+1357,SQL
+1357,Automation
+1357,"Business Intelligence"
+1358,"Business Solutions"
+1359,"Data Mining"
+1359,"Business Solutions"
+1360,SQL
+1360,Python
+1360,"Business Intelligence"
+1361,Troubleshooting
+1361,"Manager Quality Assurance"
+1361,"Data Mining"
+1362,SQL
+1362,Python
+1362,Rdbms
+1363,Sas
+1363,"Business Analytics"
+1363,SQL
+1364,"Power BI"
+1364,Oracle
+1364,Mysql
+1365,"Project Management"
+1365,SQL
+1365,"Ms Office"
+1366,SQL
+1366,Mysql
+1366,Rdbms
+1367,"Market Research"
+1367,Logistics
+1368,SQL
+1368,Python
+1368,"Quantitative Analysis"
+1369,Unix
+1369,CRM
+1369,"Data Structures"
+1370,Sas
+1370,Consulting
+1370,"Financial Services"
+1371,SQL
+1371,Networking
+1371,Automation
+1372,"Financial Services"
+1372,Bpo
+1372,SQL
+1373,SQL
+1373,Microsoft
+1373,Oracle
+1374,SQL
+1374,"Data Management"
+1375,SQL
+1375,Consulting
+1376,SQL
+1376,Auditing
+1376,"Data Mining"
+1377,SQL
+1377,"Data Mining"
+1377,"Business Operations"
+1378,HR
+1378,Payroll
+1378,"Talent Acquisition"
+1379,Commerce
+1379,Html
+1380,"Data Entry"
+1380,"Medical Coding"
+1380,Pharma
+1381,Payroll
+1381,"Talent Acquisition"
+1381,Hris
+1382,SQL
+1382,"Data Management"
+1383,Mis
+1383,Billing
+1383,SQL
+1384,SQL
+1384,"Sas Analyst"
+1385,Macros
+1386,"Mis Reporting"
+1386,Accounting
+1387,SQL
+1387,Php
+1388,"Help Desk"
+1388,"Customer Service"
+1389,"Health Insurance"
+1389,Claims
+1390,SAP
+1390,"Data Science"
+1391,SQL
+1391,Python
+1392,SQL
+1392,Python
+1392,Billing
+1393,Architecture
+1393,SQL
+1393,Python
+1394,Healthcare
+1394,SQL
+1394,Xml
+1395,Healthcare
+1395,SQL
+1395,Xml
+1396,SQL
+1396,Python
+1397,Seo
+1397,"Digital Marketing"
+1398,SQL
+1398,Sas
+1398,"Process Improvement"
+1399,Reconciliation
+1399,SQL
+1399,Taxation
+1400,SQL
+1400,Xml
+1400,Db2
+1401,Excel
+1401,Cost
+1403,"Market Research"
+1403,Php
+1404,SQL
+1405,"Help Desk"
+1405,"Customer Service"
+1406,Omc
+1406,"Data Reporting"
+1407,"Customer Experience"
+1407,"Market Research"
+1408,"Data Scientist"
+1409,"Cloud Computing"
+1409,"Machine Learning"
+1410,"Continuous Improvement"
+1411,"Machine Learning"
+1411,"Life Sciences"
+1411,"Architectural Design"
+1412,Scrum
+1412,"Data Management"
+1413,Sas
+1413,SQL
+1414,"Performance Tuning"
+1414,"Unix Shell Scripting"
+1415,"Ms Sql"
+1415,Pdf
+1415,"Operating Systems"
+1416,"Project Management"
+1416,Operations
+1417,Linux
+1417,"Ms Sql"
+1417,"Sql Scripting"
+1418,"Analytical Skills"
+1418,"Market Study"
+1419,ERP
+1419,Macros
+1420,"Project Management"
+1420,CRM
+1420,ERP
+1421,SQL
+1421,"Manager Quality Assurance"
+1421,Metadata
+1422,Python
+1422,"Data Modeling"
+1422,"Data Mining"
+1423,Python
+1423,"Data Modeling"
+1423,"Data Mining"
+1424,"Supply Chain"
+1424,"Data Modeling"
+1424,"Project Management"
+1425,Automation
+1425,Tableau
+1425,Excel
+1426,Python
+1426,Aws
+1426,"Sql Queries"
+1427,"Power BI"
+1427,"Sql Server"
+1427,Tableau
+1428,Xml
+1428,"Production Support"
+1428,"Ms Sql"
+1429,"Customer Support"
+1429,Workflow
+1430,"Cold Calling"
+1430,"Customer Support"
+1432,"Process Improvement"
+1432,"Data Collection"
+1432,"Managed Services"
+1433,Javascript
+1433,Ajax
+1433,Jquery
+1434,"Product Management"
+1434,Forensic
+1435,"Core Java"
+1435,"Data Structures"
+1435,Outsourcing
+1436,"Computer Science"
+1436,Hbase
+1436,"Data Processing"
+1437,"Proof Reading"
+1438,SQL
+1438,Oracle
+1438,Mysql
+1439,"Data Entry Operator"
+1439,"Computer Operator"
+1440,"Data Integrity"
+1440,Research
+1441,"Back Office"
+1441,"Data Entry"
+1441,Mis
+1442,"Clinical Data Analyst"
+1443,"Product Management"
+1443,"Distribution Network"
+1443,Publishing
+1444,"Market Research"
+1444,"Data Processing"
+1444,"Ms Office"
+1445,Sas
+1445,"Machine Learning"
+1446,"Ms Office"
+1446,"Data Collection"
+1446,"Internet Research"
+1447,Monitoring
+1448,"Business Development Executive"
+1448,Xml
+1448,"Data Mining"
+1450,"Master Data Management"
+1450,E-Sourcing
+1451,"Process Improvement"
+1451,Consulting
+1452,"Ms Sql"
+1452,"Data Visualization"
+1453,Petroleum
+1453,Mining
+1453,"Technical Writing"
+1454,Metadata
+1454,Python
+1455,Programming
