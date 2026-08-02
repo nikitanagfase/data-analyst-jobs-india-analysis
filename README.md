@@ -39,13 +39,9 @@ The project intentionally uses **four different tools for four different jobs** 
 
 ## 🖼️ Dashboard Preview
 
-> **📷 Add your Power BI dashboard screenshot here.**
-> Export a full-page screenshot from Power BI Desktop (`File → Export → Export to Image`, or a simple screen capture), save it as `dashboard_preview.png` in the repo root, then replace the line below with:
-> `![Dashboard Preview](./dashboard_preview.png)`
+## 🖼️ Dashboard Preview
 
-```
 ![Dashboard Preview](./dashboard_preview.png)
-```
 
 The dashboard is fully interactive — city, platform, and experience-level slicers cross-filter every visual on the page in real time.
 
