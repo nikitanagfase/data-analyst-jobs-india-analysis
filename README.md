@@ -141,7 +141,7 @@ These rows were retained (not deleted) to preserve data integrity, but are calle
 
 ---
 
-## 🔬 Methodology (Detailed)
+## 🔬 Methodology 
 
 <details>
 <summary><strong>Step 1 — Data Cleaning (Python / Pandas)</strong> — click to expand</summary>
